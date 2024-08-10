@@ -641,6 +641,10 @@ body {
     background: rgba(23, 33, 57, 1);
     width: 195px;
 }
+.btn-delete{
+    background: transparent;
+    color: rgba(23, 33, 57, 1);
+}
 
 .form-btn-icon {
     margin-right: 10px;
